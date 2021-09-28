@@ -1,11 +1,10 @@
- /*CSS Reset*/
+
  *{
     margin: 0px;
     padding: 0px;
 
 }
 
-/*NAVIGATION BAR*/
 #navbar{
    display: flex;
     flex-direction:row;
@@ -61,7 +60,7 @@
     
 
 }
-/*home section*/
+
 #home{
 display: flex;
 flex-direction: column;
@@ -175,7 +174,7 @@ padding: 10px;
     height: 140px;
     
 }
-/*client section*/
+
 section #clint{
     height: 500px;
     position: relative;
