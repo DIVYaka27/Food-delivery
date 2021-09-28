@@ -1,5 +1,5 @@
 
-/* Navigation */
+
 #navbar {
     flex-direction: column;
 }
@@ -23,7 +23,6 @@
     font-size: 13px;
 }
 
-/* Services section  */
 .services{
     flex-direction: column;
 }
@@ -34,7 +33,7 @@
     margin-bottom: 20px;
 }
 
-/* Clients section */
+
 #clint{
     flex-wrap: wrap;
 }
@@ -45,13 +44,11 @@
     height: auto;
 }
 
-/* Contact us section */
+
 .form{
     width:80%;
 }
-/* Footer */
 
-/* Utility classes */
 .primary{
     font-size:26px;
 }
